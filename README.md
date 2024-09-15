@@ -18,7 +18,7 @@
 #### • Data was cleaned where missing values and null values were removed.
 #### • Top rated driver  and other key performance indicators such conversion rate, performance of drivers peak hours were calculated.
 #### •Windows functions, Subqueries, Aggregate functions were used to calculate average salary,driver earnings and several other factors.
-#### • Gained hands on knowledge on PowerBI involoving preparing interactive dashboard.
+#### • Gained hands on knowledge on PowerBI involving preparing interactive dashboard.
 ### RESULTS :
 #### • Provided actionable insights and strategic recommendations to improve driver management and user experience.
 #### • Assessed driver earnings and geographic data to enhance revenue and service coverage.
