@@ -12,3 +12,6 @@
 #### • Data was cleaned where missing values and null values were removed.
 #### • Top rated driver  and other key performance indicators such conversion rate, performance of drivers peak hours were calculated.
 #### • Gained hands on knowledge on PowerBI involoving preparing interactive dashboard.
+### RESULTS :
+#### • Provided actionable insights and strategic recommendations to improve driver management and user experience.
+#### • Assessed driver earnings and geographic data to enhance revenue and service coverage.
