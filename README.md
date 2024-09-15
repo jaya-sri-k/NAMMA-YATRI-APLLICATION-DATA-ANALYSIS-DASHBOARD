@@ -1,7 +1,7 @@
 # NAMMA-YATRI-APPLICATION-DATA-ANALYSIS-DASHBOARD
 ## TOOLS USED : SQL, Microsoft PowerBI
 ## TABLE OF CONTENTS:
- [DATA SOURCE] (#data-source)
+ [DATA SOURCE](#data-source)
  [PROJECT OVERVIEW](#project-overview)
  [DESCRIPTION](#description)
  [TECHNICAL SKILLS](#technical-skills)
